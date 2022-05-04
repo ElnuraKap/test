@@ -18,6 +18,9 @@ public class App
         studentsRepository.findAll().forEach(System.out::println);
         studentsRepository.findAll().forEach(System.out::println);
         studentsRepository.findAll().forEach(System.out::println);
+        studentsRepository.findAll().forEach(System.out::println);
+        studentsRepository.findAll().forEach(System.out::println);
+        studentsRepository.findAll().forEach(System.out::println);
 
     }
 }
