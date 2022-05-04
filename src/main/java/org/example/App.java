@@ -16,6 +16,8 @@ public class App
 //        studentsRepository.save(dilbara);
 //        studentsRepository.save(dinara);
         studentsRepository.findAll().forEach(System.out::println);
+        studentsRepository.findAll().forEach(System.out::println);
+        studentsRepository.findAll().forEach(System.out::println);
 
     }
 }
